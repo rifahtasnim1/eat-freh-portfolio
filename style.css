@@ -1,0 +1,61 @@
+.word-color {
+    color: orange;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1 {
+    font-size: 60px;
+
+}
+
+section {
+    display: flex;
+}
+
+
+p {
+    font-size: 30px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+
+}
+
+.half-width img {
+    width: 85%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    background-size: 300%;
+    padding: 15px 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500px;
+    line-height: 1;
+    border-radius: 30px;
+    border: 0;
+
+
+
+
+
+}
+
+.back-ground {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding-left: 20px;
+
+}
+
+#pick-ture {
+    width: 70%;
+}
